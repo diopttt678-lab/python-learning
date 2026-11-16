@@ -26,7 +26,7 @@ Python exercises and practice as I learn, synced automatically from my [Exercism
 
 ## How it's organized
 
-Each exercise lives in its own folder under `python/`. When I submit a new solution on Exercism, a bot opens a pull request here and I merge it.
+Each exercise lives in its own folder under `solutions/python/`. When I submit a new solution on Exercism, a bot opens a pull request here and I merge it.
 
 ## Goal
 
